@@ -19,11 +19,11 @@ I am an Electrical and Computer Engineering major at Colorado Mesa University in
 ## Featured Projects
 Here are some of my key projects:
 
-1. 
+1. Snowmobile Recovery Device
 
-2. 
+2. Arduino In-line Assembly
 
-3.
+3. Double ESP32 Heart Rate Sensor and Display Using WIFI
 
 ---
 
