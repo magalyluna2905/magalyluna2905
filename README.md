@@ -1,16 +1,42 @@
-## Hi there 👋
+# Magaly Luna – GitHub Portfolio
 
-<!--
-**magalyluna2905/magalyluna2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! This repository highlights my academic projects, skills, and experience in Electrical and Computer Engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am an Electrical and Computer Engineering major at Colorado Mesa University in the CU Boulder Partnership Program. I am passionate about embedded systems and assistive technology projects. 
+
+---
+
+## Skills
+- **Programming Languages:** C, C++, Python, MATLAB, Verilog, Assembly  
+- **Tools & Platforms:** ESP32, ArduinoIDE, MATLAB, Quartus Prime, ModelSim, GitHub  
+- **Areas of Interest:** Embedded Systems, Microcontrollers, Circuit Design  
+
+---
+
+## Featured Projects
+Here are some of my key projects:
+
+1. 
+
+2. 
+
+3.
+
+---
+
+## Education
+- **Colorado Mesa University** – Electrical and Computer Engineering, Expected Graduation: Spring 2027  
+
+---
+
+## Contact
+- **Email:** mluna2@mavs.coloradomesa.edu
+- **LinkedIn:**  www.linkedin.com/in/luna05
+  
+
+---
+
+*This portfolio is maintained to showcase my academic projects, skills, and growth in electrical and computer engineering.*
